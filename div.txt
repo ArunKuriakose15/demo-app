@@ -1,0 +1,4 @@
+h=5
+d=100
+div=h/100
+print(div)
